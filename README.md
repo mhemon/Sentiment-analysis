@@ -25,6 +25,7 @@ pipeline = pipeline("text-classification", model="mhemon/seintiment-distilbert-b
 
 ```python
 pipeline("The product quality is amazing and delivery was fast!")
+# [{'label': 'POSITIVE', 'score': 0.7757363319396973}]
 ```
 
 ## 📊 Result
@@ -32,3 +33,4 @@ pipeline("The product quality is amazing and delivery was fast!")
 | -------- | ----- |
 | Accuracy | 0.85  |
 | F1 Score | 0.85  |
+
