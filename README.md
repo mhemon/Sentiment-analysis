@@ -34,3 +34,5 @@ pipeline("The product quality is amazing and delivery was fast!")
 | Accuracy | 0.85  |
 | F1 Score | 0.85  |
 
+## Colab File
+https://colab.research.google.com/drive/1hycSErDqoGt1mWz20Al3fRX6EbDbW2nF?usp=sharing
