@@ -2,8 +2,6 @@
 
 This project fine-tunes **DistilBERT** to perform binary sentiment classification (positive/negative) on the [IMDb movie reviews dataset](https://huggingface.co/datasets/imdb) using the Hugging Face `transformers` and `datasets` libraries.
 
-The goal is to demonstrate **NLP skills** for a practical, real-world task and to provide a clean, reproducible codebase for portfolio purposes.
-
 ---
 
 ## 📌 Features
